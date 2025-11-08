@@ -13,7 +13,7 @@ body {
     text-align: center;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(to bottom, #6ab7f5, rgb(107, 220, 69) ) ;
+    background: linear-gradient(to bottom, rgb(107, 220, 69), #6ab7f5 ) ;
     min-height: 100vh;
 
 }
@@ -102,3 +102,4 @@ main {
     box-shadow: inset -4px 4px 0 #222;
     font-size: 0.9rem;
 }
+
